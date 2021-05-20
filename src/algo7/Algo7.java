@@ -12,7 +12,7 @@ public class Algo7 {
 	public static void main(String[] args) {
 		//fonction principale du programme
 		int min=0, max=100, answer;
-		System.out.println("Bienvenue ! Pensez à un nombre entre "+ min +" et " + max + ", je vais essayer de le deviner");
+		System.out.println("Bienvenue ! Imaginez un nombre entre "+ min +" et " + max + ", je vais essayer de le deviner");
 		System.out.println("Répondez Higher/Lower/Victory");
 		String between, endgame="";
 		for(int i=0;i<5;i++) {
