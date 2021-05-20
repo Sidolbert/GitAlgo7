@@ -11,6 +11,8 @@ Si l'algo trouve le nombre en moins de 5 essais vous perdez sinon vous gagnez
 public class Algo7 {
 	public static void main(String[] args) {
 		//fonction principale du programme
+		//voici m&a branche de travail !
+		System.out.println("Version de la branche working !");
 		int min=0, max=100, answer;
 		System.out.println("Bienvenue ! Imaginez un nombre entre "+ min +" et " + max + ", je vais essayer de le deviner");
 		System.out.println("Repondez Higher/Lower/Victory");
